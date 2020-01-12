@@ -16,7 +16,7 @@ Navigate to the folder in which you want to install the project
 **Exercise 1**
 ```bash
 git clone https://github.com/bradwhiteVB/code-exercises.git
-cd ReckonExercises/exercise-1
+cd code-exercises/exercise-1
 npm install
 npm test #optional to run the configured mocha tests
 npm start
@@ -25,7 +25,7 @@ npm start
 **Exercise 2**
 Presuming you have cloned the repo above...:)
 ```bash
-cd .../ReckonExercises/exercise-2
+cd .../code-exercises/exercise-2
 npm install
 npm test #optional to run the configured mocha tests
 npm start
